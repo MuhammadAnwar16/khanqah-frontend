@@ -1,0 +1,14 @@
+# robots.txt for Khanqah Yaseen Zai Website
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /contact/send-message/
+
+# Sitemap location
+Sitemap: https://khanqahyaseenzai.com/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
+

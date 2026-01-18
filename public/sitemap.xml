@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/" />
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/about</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/about" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/about" />
+  </url>
+  
+  <!-- Shajrah-e-Nasab -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/shajra</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/shajra" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/shajra" />
+  </url>
+  
+  <!-- Shajrah-e-Tasawuf -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/shajrahTasawuf</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/shajrahTasawuf" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/shajrahTasawuf" />
+  </url>
+  
+  <!-- Publications -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/publications</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/publications" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/publications" />
+  </url>
+  
+  <!-- Gallery -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/gallery</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/gallery" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/gallery" />
+  </url>
+  
+  <!-- Video Gallery -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/VideoGallery</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/VideoGallery" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/VideoGallery" />
+  </url>
+  
+  <!-- Contact -->
+  <url>
+    <loc>https://khanqahyaseenzai.com/contact</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://khanqahyaseenzai.com/contact" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://khanqahyaseenzai.com/contact" />
+  </url>
+  
+</urlset>
+

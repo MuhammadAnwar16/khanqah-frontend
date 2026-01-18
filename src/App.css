@@ -1,0 +1,83 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+/* Urdu */
+.urdu {
+  font-family: "Noto Nastaliq Urdu", "Scheherazade", serif;
+}
+
+/* English headings */
+.font-heading {
+  font-family: "Playfair Display", serif;
+}
+
+/* Body text */
+.font-body {
+  font-family: "Inter", "Lato", sans-serif;
+}
+/* Add this in your global CSS */
+.urdu-paragraph p {
+  line-height: 2.6rem !important;
+  margin-bottom: 1.5rem; /* Adds spacing between paragraphs */
+}
+@keyframes bouncePulse {
+  0%, 100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  25% {
+    transform: translateY(-10px);
+    opacity: 0.8;
+  }
+  50% {
+    transform: translateY(0);
+    opacity: 0.5;
+  }
+  75% {
+    transform: translateY(-5px);
+    opacity: 0.7;
+  }
+}
+
+.animate-bounce-pulse {
+  animation: bouncePulse 1.5s infinite ease-in-out;
+}
